@@ -1,7 +1,7 @@
 {
-  "name": "eu.netherlands3d.{NAME:kebab-case}",
+  "name": "eu.netherlands3d.Draco",
   "version": "{VERSION}",
-  "displayName": "Netherlands3D - {DISPLAY_NAME}",
+  "displayName": "Netherlands3D - Draco",
   "description": "{DESCRIPTION}",
   "unity": "2022.2",
   "documentationUrl": "https://netherlands3d.eu/docs",
