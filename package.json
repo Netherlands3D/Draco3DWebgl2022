@@ -1,8 +1,8 @@
 {
   "name": "eu.netherlands3d.Draco",
-  "version": "{VERSION}",
+  "version": "0.0.1",
   "displayName": "Netherlands3D - Draco",
-  "description": "{DESCRIPTION}",
+  "description": "Draco compression for webgl in unity 2022",
   "unity": "2022.2",
   "documentationUrl": "https://netherlands3d.eu/docs",
   "changelogUrl": "https://raw.githubusercontent.com/Netherlands3D/{REPOSITORY_NAME}/main/CHANGELOG.md",
