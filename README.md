@@ -1,19 +1,12 @@
-# {DISPLAY_NAME}
+# Draco3DWebgl2022
 
-{LONG_DESCRIPTION}
 
-## Installing
 
-This package is provided through OpenUPM, to install it using the CLI you can perform the following:
+This is a copy of [GitHub - atteneder/DracoUnity: Draco 3D Data Compression Unity Package](https://github.com/atteneder/DracoUnity)
 
-```bash
-$ openupm add {PACKAGE_NAME}
-```
+The binary plugins were replaced to support the new Emscripten version used in Unity 2022.3.x
 
-or, you have to add `https://package.openupm.com` as a scoped registry with, at least, the following scopes:
+If the atteneder/DracoUnity releases 5.x this repo will be obsolete. The binaries will be placed is subpackages:
+[Support for Unity 2023.2+/Emscripten 3.1.38+ · Issue #68 · atteneder/DracoUnity · GitHub](https://github.com/atteneder/DracoUnity/issues/68)
 
-- `eu.netherlands3d`
 
-## Usage
-
-{USAGE_INFORMATION}
